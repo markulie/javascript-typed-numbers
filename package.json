@@ -1,0 +1,16 @@
+{
+  "name": "typed-numbers",
+  "version": "1.0.0",
+  "author": "markulie",
+  "license": "MIT",
+  "description": "A JavaScript library for C#-like numeric data types.",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "keywords": [
+    "numeric",
+    "typed arrays",
+    "data types",
+    "JavaScript"
+  ]
+}
